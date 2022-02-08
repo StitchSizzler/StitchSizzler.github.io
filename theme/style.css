@@ -4,4 +4,17 @@ html, body {
   font-size: 100%;
   background-color: #FCF2CA;
   color: #3B2F04;
+  font-family: sans-serif;
+}
+
+a {
+  color: #3B2F04;
+}
+
+a:hover, a:active {
+  color: #000;
+}
+
+a:visited {
+  color: #5C3707;
 }
